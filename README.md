@@ -1,9 +1,20 @@
-## 📊 Insight Utama (Ringkasan)
+## 📊 Highlight Analisis
 
-- Produk dengan penjualan tertinggi berasal dari kategori X.
-- Waktu paling efektif untuk promosi adalah hari Jumat & Sabtu.
-- Seller dengan rating tinggi cenderung memiliki review > 100.
-- Rata-rata harga produk yang laris berada di rentang Rp50k – Rp150k.
+Total revenue harian dan metode pembayaran terbanyak
+
+Kategori produk dengan penjualan tertinggi
+
+Rekomendasi strategi berdasarkan performa produk
+
+🔧 Tools yang Digunakan
+
+Google Spreadsheet
+
+BigQuery (SQL)
+
+Tableau
+
+Excel Pivot Table
 
 ## 📁 Lokasi Terkait
 
