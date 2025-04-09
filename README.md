@@ -1,20 +1,20 @@
 ## 📊 Highlight Analisis
 
-Total revenue harian dan metode pembayaran terbanyak
+ - Total revenue harian dan metode pembayaran terbanyak
 
-Kategori produk dengan penjualan tertinggi
+ - Kategori produk dengan penjualan tertinggi
 
-Rekomendasi strategi berdasarkan performa produk
+ - Rekomendasi strategi berdasarkan performa produk
 
-🔧 Tools yang Digunakan
+## 🔧 Tools yang Digunakan
 
-Google Spreadsheet
+ - Google Spreadsheet
 
-BigQuery (SQL)
+ - BigQuery (SQL)
 
-Tableau
+ - Tableau
 
-Excel Pivot Table
+ - Excel Pivot Table
 
 ## 📁 Lokasi Terkait
 
