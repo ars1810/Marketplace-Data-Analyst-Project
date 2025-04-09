@@ -9,4 +9,4 @@
 
 - 📂 `data/` → File CSV mentah & hasil cleaning
 - 📂 `scripts/` → Script SQL
-- 📂 `visualizations/` → Screenshot dashboard Tableau & link Tableau
+- 📂 `visualizations/` → Tableau file
